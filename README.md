@@ -10,7 +10,7 @@ julia -O3 Main.jl $networkName $drawingParameters
 ```
 - ***networkName*** is a string *e.g. Karate*  
 - ***drawingParameters*** = "n0,m0,NodeSelectMode,ConnetivityPreservationMode"  
-  - n0,m0 are numerics *e.g. 20*  
+  - n0,m0 are numbers *e.g. 20*  
   - NodeSelectMode = \[ n | ne \]  
   - ConnetivityPreservationMode = \[ KeepOne | KeepAll \]  
   - ***drawingParameters*** is optional  

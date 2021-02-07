@@ -1,0 +1,48 @@
+Network Karate has 34 nodes and 78 edges.
+Compress Mode : 20 20 ne KeepOne
+Compressed Graph has 25 nodes and 58 edges.
+Node Centrality Information : 100.00 %
+Edge Centrality Information : 78.02 %
+Centrality Information : 89.01 %
+The planar subgraph has 48 edges.
+Planar Subgraph ECI : 92.26 %
+Total selected edges : 58(+10)
+Dropped edges : 0
+Preserved ECI : 100.00 %
+
+Network Karate has 34 nodes and 78 edges.
+Compress Mode : 20 20 ne KeepOne
+Compressed Graph has 25 nodes and 58 edges.
+Node Centrality Information : 100.00 %
+Edge Centrality Information : 78.02 %
+Centrality Information : 89.01 %
+The planar subgraph has 48 edges.
+Planar Subgraph ECI : 92.26 %
+Total selected edges : 58(+10)
+Dropped edges : 0
+Preserved ECI : 100.00 %
+
+Network Karate has 34 nodes and 78 edges.
+Compress Mode : 30 30 ne KeepOne
+Compressed Graph has 34 nodes and 78 edges.
+Node Centrality Information : 100.00 %
+Edge Centrality Information : 100.00 %
+Centrality Information : 100.00 %
+The planar subgraph has 67 edges.
+Planar Subgraph ECI : 93.65 %
+Total selected edges : 73(+6)
+Dropped edges : 5
+Preserved ECI : 97.55 %
+
+Network Karate has 34 nodes and 78 edges.
+Compress Mode : 30 30 n KeepAll
+Compressed Graph has 30 nodes and 71 edges.
+Node Centrality Information : 100.00 %
+Edge Centrality Information : 90.23 %
+Centrality Information : 95.11 %
+The planar subgraph has 60 edges.
+Planar Subgraph ECI : 92.96 %
+Total selected edges : 66(+6)
+Dropped edges : 5
+Preserved ECI : 97.29 %
+

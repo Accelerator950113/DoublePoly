@@ -68,6 +68,8 @@ signal_connect(drawButton, "clicked") do widget
 	DrawNetwork(ags1, ags2)
 	T = time() - T
 	GAccessor.text(retLabel3, "Running Time : " * @sprintf("%.2f s", T))
+	run(Cmd(["epstopdf", "../pictures/"*ags1*".eps"]))
+	run(Cmd(["open", "../pictures/"*ags1*".pdf"]))
 
 	#win2 = GtkWindow("Final Drawing")
 	#bx = GtkBox(:v)
